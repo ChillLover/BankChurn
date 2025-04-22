@@ -1,0 +1,13 @@
+feature,importance,importance_fraction
+num_pipe__NumOfProducts,0.28227434,0.28227434
+num_pipe__IsActiveMember,0.15369809,0.15369809
+num_pipe__Age,0.123041384,0.123041384
+cat_pipe__Geography_Germany,0.11642587,0.11642587
+num_pipe__Balance,0.056489173,0.056489173
+cat_pipe__Gender_Female,0.044672266,0.044672266
+cat_pipe__Geography_Spain,0.04092982,0.04092982
+cat_pipe__Geography_France,0.038952995,0.038952995
+num_pipe__EstimatedSalary,0.038063724,0.038063724
+num_pipe__CreditScore,0.038055707,0.038055707
+num_pipe__Tenure,0.03413073,0.03413073
+num_pipe__HasCrCard,0.033265866,0.033265866
